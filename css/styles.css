@@ -1,0 +1,15 @@
+.nuevoEstiloBoton {
+  background-color: #000000;
+  color: #00ffff;
+}
+
+span.cuadro {
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 0%;
+    color: #ff0000 ;
+}
+#etiquetas {
+background-color:#ff0000;
+color: #fff;
+}
